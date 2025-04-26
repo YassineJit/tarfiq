@@ -1,0 +1,10 @@
+Return_3d
+Momentum_10
+Volatility_5
+Close_MA20_Ratio
+RSI_14
+MACD
+Stochastic
+OBV
+EMA_20
+Volume_MA_20
