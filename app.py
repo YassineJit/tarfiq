@@ -806,7 +806,7 @@ def render_dashboard(user_id):
     elif page == "Settings":
         render_settings(user_id)
     elif page == "Notifications":
-    render_notifications_page(user_id)
+        render_notifications_page(user_id)
 
 
 
